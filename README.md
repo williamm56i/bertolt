@@ -6,7 +6,8 @@ Gateway架構下統一在Bertolt進行合法性驗證，呼叫端需通過驗證
 
 ### 技術框架
 * Java version 18
-* Spring boot 3.3.10
+* Spring boot 3.3.13
+* Spring Cloud 2023.0.6
 * Spring Scheduling
 * Maven
 * Mybatis
